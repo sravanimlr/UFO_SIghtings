@@ -1,4 +1,4 @@
-# UFOs
+# Tracking_UFOs
 This project focused on implementing Javascript and HTML to create a full webpage about UFO sightings. 
 
 ## Project Overview 
